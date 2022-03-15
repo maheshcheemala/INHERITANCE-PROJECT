@@ -26,6 +26,6 @@ public class HomePage
 	public void clickHomeNext() throws Exception
 	{
 		homeNext.click();
-		Thread.sleep(5000);
+		Thread.sleep(7000);
 	}
 }
